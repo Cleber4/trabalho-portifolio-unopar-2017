@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+a {
+	color: #FFF;
+}
+
+a:hover{
+	color:#bf079a;
+}
+
+#home{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+	font-size:18px;
+	text-decoration:none;
+	
+	border: 1px #bf079a solid;
+	height:0 auto;
+	width:0 auto;
+	background:#bf079a;
+	padding:10px;
+	
+	/*float:Left; */
+	margin:0 auto;
+	}
+
+#home:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#bf079a;
+	font-size:18px;
+	text-decoration:underline;
+
+	border: 1px #bf079a solid;
+	height:0 auto;
+	width:0 auto;
+	background:#FFF;
+	padding:10px;
+	
+	
+	/*float:Left; */  
+	margin:0 auto;
+	
+
